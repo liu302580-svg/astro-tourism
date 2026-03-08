@@ -1,0 +1,60 @@
+---
+title: "RONG WEN"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: RONG WEN
+**Faculty:** [ICDI]
+*(Notice: Student ID strictly hidden)*
+:::
+
+---
+
+::: {.columns}
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+![](images/clipboard-1361200114.png){.rounded}
+:::
+
+::: {.column width="4%" }
+:::
+
+::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+::: {.ratio .ratio-16x9}
+According to the assignment, our vlog focuses on highlighting favorite zones and recommended photo spots for students.
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden; box-shadow: 0 0 30px rgba(61, 120, 209, 0.5); border: 1px solid rgba(255,255,255,0.1);"}
+<iframe
+  src="https://www.youtube.com/embed/MZ1pWb1icTU"
+  title="NARIT Shorts Vlog"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+:::
+:::
+:::
+:::
+
+---
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+The visit made astronomy feel real and practical. The exhibits helped me connect ideas like light and observation to what scientists actually measure. I liked the balance between excitement and scientific method: tools, careful checks, and clear explanations. Overall, it motivated me to learn the
+sky with a more data-driven mindset.
+
+### 💡 Knowledge Gained (1pt)
+Observation means recording measurable
+data (light, time, position).
+Instruments and settings change what
+details we can detect.
+Asking 'how do we know?' improves
+scientific thinking
+
+### 🚀 Future Applications (1pt)
+I will use a sky map app to identify
+constellations and planets and keep a
+simple weekly “sky log” (date, location, what
+I saw)
+:::

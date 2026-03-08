@@ -1,0 +1,54 @@
+---
+title: "YUEYU TIAN"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: YUEYU TIAN
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+
+![](images/clipboard-642675068.jpeg){.rounded}
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden;"}
+<iframe
+  src="https://www.youtube.com/embed/oQcL7oWRV_0"
+  title="NARIT Shorts"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+
+Visiting NARIT felt like stepping into a space where science becomes alive and immersive. The planetarium experience, interactive exhibits, and astronomical displays made complex concepts feel accessible and exciting. Instead of just reading about space, I was able to experience it visually and emotionally, which made the visit both inspiring and memorable.
+
+### 💡 Knowledge Gained (1pt)
+
+Through this visit, I learned how planetarium projection systems simulate celestial movements and recreate realistic night skies. I also gained a deeper understanding of black holes, light spectra, and how telescopes collect and analyze data from distant galaxies. The integration of technology and science communication was particularly impressive.
+
+### 🚀 Future Applications (1pt)
+
+This experience showed me how scientific knowledge can be transformed into engaging educational content. In the future, I can apply these insights to improve presentation skills, integrate interactive elements into projects, and develop more experience-based learning approaches within my field.
+:::
+

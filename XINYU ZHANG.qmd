@@ -1,0 +1,48 @@
+---
+title: "XINYU ZHANG"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: XINYU ZHANG
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+
+![](images/clipboard-448934688.png) ![](images/clipboard-1475363022.png)
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden;"}
+<iframe src="https://www.youtube.com/embed/k9LXrsyawHU" title="NARIT Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+
+Visiting NARIT was a really unforgettable experience for me. The planetarium is a three-floor building, and the first floor has a huge ball-shaped theater. When I watched the show inside, I felt like I was floating in real space, surrounded by stars and planets. I also saw a very big telescope in the building, which was really eye-catching. This trip made me feel that the universe is so wonderful and mysterious, and it made me more interested in science and technology.
+
+### 💡 Knowledge Gained (1pt)
+
+During the visit, I learned many basic ideas about light and heat. For example, I learned how planets reflect light from the sun, and how heat is transferred from stars to other objects in space. These scientific principles were not just boring words in textbooks— they became real and easy to understand when I saw the models and videos at NARIT. I also learned about how telescopes work to help us see faraway things in the universe.
+
+### 🚀 Future Applications (1pt)
+
+As a student studying computer science, this trip made me think about how I can use my knowledge in the future. I realized that computer programs can be used to simulate the movement of stars and planets, just like the models I saw at NARIT. In the future, I hope to use coding skills to help with space research or create educational apps that make science more fun for other people. This visit encouraged me to study harder and explore more about the world and the universe.
+:::

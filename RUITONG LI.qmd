@@ -1,0 +1,64 @@
+---
+title: "RUITONG LI"
+
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: RUITONG LI
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+![](images/clipboard-110598780.png){.rounded}
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden;"}
+<iframe
+  src="https://www.youtube.com/embed/2SYnYexTMmQ"
+  title="NARIT Field Trip Video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+
+Visiting NARIT left a deep impression on me. Its spacious area and
+modern architecture made the entire visit both relaxing and enjoyable,
+allowing me to learn and experience things at a leisurely pace. The
+planetarium also showed me how science and technology help humanity
+understand the universe.
+
+### 💡 Knowledge Gained (1pt)
+
+From this visit, I learned some basic knowledge about astronomy. I also
+learned that science centers can use space design and simple technology
+to help people understand science more easily.
+
+### 🚀 Future Applications (1pt)
+
+This area is suitable for different groups of people. It has elevators
+and wheelchair friendly paths for elderly visitors and people with
+disabilities, many seats for resting, and slides for children to play.
+In the future, this experience can help me think about how public spaces
+should be designed for everyone.
+:::
+
+

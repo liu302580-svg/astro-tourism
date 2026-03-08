@@ -1,0 +1,48 @@
+---
+title: "CHENFEI LIU"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: CHENFEI LIU
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+
+![](images/clipboard-1293746852.jpeg){.rounded}
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+::: {.ratio .ratio-16x9}
+<iframe src="https://www.youtube.com/embed/fSBnNh-L3Lg" title="NARIT Vlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+
+Visiting NARIT felt like stepping into a different universe. As a “travel blogger” for the day, I was amazed by how the space exhibitions and planetarium combined science with immersive storytelling. The atmosphere was both educational and inspiring, making astronomy feel exciting rather than distant or complicated.
+
+### 💡 Knowledge Gained (1pt)
+
+During the visit, I learned how the planetarium projection system simulates celestial movements and recreates realistic night skies. I also gained a better understanding of black holes, light spectra, and how telescopes collect and process astronomical data to study distant galaxies.
+
+### 🚀 Future Applications (1pt)
+
+This experience broadened my perspective on how science can be communicated in creative and engaging ways. In the future, I can apply these insights to improve presentation skills, integrate technology into learning, and develop more interactive and experience-based projects within my field.
+:::

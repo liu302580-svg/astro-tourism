@@ -1,0 +1,124 @@
+# About Our Team
+
+![](images/clipboard-3121001102.jpeg)
+
+
+```{=html}
+<div id="myImageCarousel"
+     class="carousel slide carousel-fade"
+     data-bs-ride="carousel"
+     data-bs-pause="hover">
+
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="2"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="3"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="4"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="5"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="6"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="7"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="8"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="9"></button>
+  </div>
+
+  <div class="carousel-inner" style="border-radius: 20px; overflow: hidden; box-shadow: 0 18px 60px rgba(11,16,32,.18);">
+
+    <div class="carousel-item active" data-bs-interval="2000">
+      <img src="pic/pic9.jpg" class="d-block w-100" alt="Picture 9">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic10.png" class="d-block w-100" alt="Picture 10">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic11.png" class="d-block w-100" alt="Picture 11">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic12.png" class="d-block w-100" alt="Picture 12">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic13.jpg" class="d-block w-100" alt="Picture 13">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic14.png" class="d-block w-100" alt="Picture 14">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic15.jpg" class="d-block w-100" alt="Picture 15">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic16.png" class="d-block w-100" alt="Picture 16">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic17.jpg" class="d-block w-100" alt="Picture 17">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic18.png" class="d-block w-100" alt="Picture 18">
+    </div>
+
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#myImageCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+
+  <button class="carousel-control-next" type="button" data-bs-target="#myImageCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+
+</div>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+::: {data-aos="fade-up"}
+# 🌌 Group 4: Astro-Tourism & Experience
+
+Welcome to our official project website. We are a team of 8 enthusiasts dedicated to exploring the wonders of NARIT and sharing the beauty of the cosmos.
+:::
+
+------------------------------------------------------------------------
+
+## 🧑‍🚀 Member Gallery
+
+::: {data-aos="zoom-in"}
+Our team in action at NARIT.
+:::
+
+------------------------------------------------------------------------
+
+## 📋 Member List
+
+:::: {data-aos="fade-up"}
+::: {data-aos="zoom-in"}
+See the table below for a breakdown of our group members. Please note that student ID numbers are not displayed here to protect privacy.
+:::
+
+| Name              | Faculty | Role in Project |
+|-------------------|---------|-----------------|
+| CHENFEI LIU       | ICDI    | Video Editor    |
+| YUEYU TIAN        | ICDI    | Web Developer   |
+| SIYU WANG         | ICDI    | Content Writer  |
+| XINYU ZHANG       | ICDI    | Photographer    |
+| RONG WEN          | ICDI    | UX Designer     |
+| RUITONG LI        | ICDI    | Researcher      |
+| KITKWIN PHIANCHOB | ICDI    | Coordinator     |
+| PEIYANG SONG      | ICDI    | Data Analyst    |
+::::

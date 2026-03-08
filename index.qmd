@@ -1,0 +1,75 @@
+---
+title: "Group 4: Astro-Tourism & Experience"
+---
+
+![](images/clipboard-57416320.jpeg)
+
+```{=html}
+<div id="myImageCarousel"
+     class="carousel slide carousel-fade"
+     data-bs-ride="carousel"
+     data-bs-pause="hover">
+
+  <!-- Indicators (dots) -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#myImageCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+  </div>
+
+  <!-- Slides -->
+  <div class="carousel-inner" style="border-radius: 20px; overflow: hidden; box-shadow: 0 18px 60px rgba(11,16,32,.18);">
+    <div class="carousel-item active" data-bs-interval="1200">
+      <img src="pic/pic6.JPG" class="d-block w-100" alt="Picture 6">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic7.JPG" class="d-block w-100" alt="Picture 7">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic8.JPG" class="d-block w-100" alt="Picture 8">
+    </div>
+
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="pic/pic9.JPG" class="d-block w-100" alt="Picture 9">
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#myImageCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+
+  <button class="carousel-control-next" type="button" data-bs-target="#myImageCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+
+::: {data-aos="fade-up"}
+# Welcom to our Journey
+
+We are **Group 4**, and we are here to guide you through the **Astro-Tourism** experience at NARIT. Our collective goal is to explore how astronomy, technology, and visitor engagement combine to create an inspiring and educational journey, and to share our insights from this field trip through our documentary, activities, and reflections.
+:::
+
+------------------------------------------------------------------------
+
+:::: {data-aos="fade-left" data-aos-delay="200"}
+# Our Mission
+
+::: callout-note
+## Vlog Style Topic
+
+"Why should teenagers or university students visit NARIT at least once?" We reviewed our group's favorite zones and photo spots.
+:::
+::::
+
+## 🌌 Meet Our Crew
+
+::: {data-aos="zoom-in"}
+Meet the members of Group 4, a team dedicated to exploring the future of astro-tourism and experiential learning at NARIT.
+:::

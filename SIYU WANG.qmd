@@ -1,0 +1,50 @@
+---
+title: "SIYU WANG"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: SIYU WANG
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+
+![](images/clipboard-1887571767.jpeg){.rounded}
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+Here’s another highlight from our NARIT experience.
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden;"}
+<iframe src="https://www.youtube.com/embed/gB6GiGjY5-8" title="NARIT Shorts Highlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+
+The planetarium has a beautiful environment and features a wide range of scientific models inside. Visitors can observe many fascinating physical phenomena up close, making it a truly novel and memorable experience.
+
+### 💡 Knowledge Gained (1pt)
+
+By visiting the planetarium, we learned a wide range of knowledge, including but not limited to how celestial bodies move, how light behaves in the universe, what black holes look like, and how humans have understood and studied the stars throughout history. There were also some fascinating elements, and my personal favorite was learning what the universe might sound like.
+
+### 🚀 Future Applications (1pt)
+
+Astronomical knowledge does not remain only at a theoretical level; it is practically applied in satellite navigation, space technology, and the observation of Earth’s environment, and it holds real significance for the future development of humanity.
+:::

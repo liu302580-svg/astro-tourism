@@ -1,0 +1,56 @@
+---
+title: "PEIYANG SONG"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: PEIYANG SONG
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+
+![](images/clipboard-3627844710.png){.rounded}
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden;"}
+<iframe src="https://www.youtube.com/embed/j6-jVFeBAME" title="NARIT Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+At the planetarium, I learned about
+humanity's exploration of the mysteries of the universe and
+the rapid development of modern space technology.
+
+
+### 💡 Knowledge Gained (1pt)
+I have learned about the universe, which has
+enabled me to clearly understand the positions and names
+of each constellation. I believe this extracurricular activity
+has had a significant impact on me, making me curious
+about the universe and helping me realize its rich and
+diverse nature.
+
+### 🚀 Future Applications (1pt)
+Keep me updated on news reports about space
+exploration. Humans can rely on high technology to
+constantly explore new things, which has a great
+promoting effect on our own and social development.
+:::

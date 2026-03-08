@@ -1,0 +1,61 @@
+---
+title: "NARIT Expedition Report"
+---
+
+::: {data-aos="fade-up"}
+# 🚀 NARIT Journey: Astro-Tourism
+
+Welcome to our group's trip report. Here, you will find our NARIT documentary and a summary of our activities from an **astro-tourism perspective**.
+:::
+
+![](images/clipboard-602656120.jpeg)
+
+------------------------------------------------------------------------
+
+## 🎥 NARIT Documentary
+
+:::::::: {.glass-card data-aos="zoom-in" data-aos-delay="100"}
+### "Why Teenagers Should Visit NARIT"
+
+According to the assignment, our vlog focuses on highlighting favorite zones and recommended photo spots for students.
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden; box-shadow: 0 0 30px rgba(61, 120, 209, 0.5); border: 1px solid rgba(255,255,255,0.1);"}
+<iframe src="https://www.youtube.com/embed/Ieq6nvAATJg" title="NARIT Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+:::
+
+------------------------------------------------------------------------
+
+## 📝 Activity Report
+
+::: {.glass-card data-aos="fade-right"}
+### 1. Observation Deck Exploration
+
+We examined the observation platform, focusing on its educational function for ordinary tourists.
+:::
+
+::: {.glass-card data-aos="fade-left" data-aos-delay="100"}
+### 2. Interactive Astronomy Exhibition
+
+We conducted a simulated experience in the interactive exhibition area and assessed its tourism experience value.
+:::
+
+::: {.glass-card data-aos="fade-right" data-aos-delay="200"}
+### 3. AstroPark Facilities
+
+As part of "astronomical tourism," we evaluated its supporting facilities。
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-important data-aos="flip-up"}
+## ⚠️ Grading Compliance Check
+
+-   **Photo Content:** Ensure that no photos on this page were taken inside the **Planetarium**.
+
+-   **Image Size:** All images on this page have been compressed to **300-500 KB** to comply with hosting limits.
+
+-   **Documentary Theme:** The documentary needs to answer the question, "Why should students come to NARIT at least once?"
+:::
+::::::::

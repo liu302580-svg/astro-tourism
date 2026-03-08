@@ -1,0 +1,53 @@
+---
+title: "KITKWIN PHIANCHOB"
+---
+
+::: {data-aos="fade-up"}
+# 🧑‍🚀 Space Crew: KITKWIN PHIANCHOB
+
+**Faculty:** \[ICDI\] *(Notice: Student ID strictly hidden)*
+:::
+
+------------------------------------------------------------------------
+
+::::::: columns
+::: {.column width="48%" data-aos="fade-right"}
+### 📸 Solo at NARIT (1pt)
+
+![](images/clipboard-2752396212.png){.rounded}
+:::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="48%" data-aos="fade-left"}
+### 🎥 Personal Vlog (1pt)
+
+
+::: {.ratio .ratio-16x9 style="border-radius: 20px; overflow: hidden;"}
+<iframe
+  src="https://www.youtube.com/embed/gx-Gqh26CwU"
+  title="NARIT Field Trip Video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+::: {data-aos="fade-up"}
+### 💭 Personal Impressions (1pt)
+
+The visit transformed astronomy from just a theory-based subject into something tangible and meaningful. Seeing how scientists observe and interpret light helped me understand how space knowledge is actually gathered. I appreciated how the exhibits combined curiosity with scientific discipline through real tools, step-by-step analysis, and logical explanations. It made astronomy feel achievable rather than distant, and it inspired me to explore more.
+
+### 💡 Knowledge Gained (1pt)
+
+I learned how light can be used as evidence to understand space objects, including their position, movement, and characteristics. I also discovered how observation depends on proper instruments, settings, and environmental conditions. Most importantly, I realized that astronomy is built on data collection and interpretation rather than simple guessing.
+
+### 🚀 Future Applications (1pt)
+
+In the future, I can apply this knowledge by observing the night sky more systematically using sky-mapping apps and recording details such as time, brightness, and location. I could also create a small digital project explaining how observations turn into scientific conclusions. This experience encouraged me to think critically by always asking, “How do we know?” when studying scientific information.
+:::

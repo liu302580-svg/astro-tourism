@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Group 4 • Astro-Tourism"
+  site-url: ""   # 部署到 CMU 后再填，例如 https://myweb.cmu.ac.th/xxxx/
+
+  # Members 改成 8 个人
+  navbar:
+    pinned: true
+    background: transparent
+    search: true
+
+    left:
+      - href: index.qmd
+        icon: bi-house-door
+        text: " Home"
+      - href: about.qmd
+        icon: bi-people
+        text: " About"
+      - href: trip.qmd
+        icon: bi-rocket-takeoff
+        text: " NARIT Trip"
+
+      - text: " Members"
+        icon: bi-person-badge
+        menu:
+          - href: RONG WEN.qmd
+            text: RONG WEN
+          - href: XINYU ZHANG.qmd
+            text: XINYU ZHANG
+          - href: RUITONG LI.qmd
+            text: RUITONG LI 
+          - href: SIYU WANG.qmd
+            text: SIYU WANG
+          - href: PEIYANG SONG.qmd
+            text: PEIYANG SONG
+          - href: CHENFEI LIU.qmd
+            text: CHENFEI LIU
+          - href: KITKWIN PHIANCHOB.qmd
+            text: KITKWIN PHIANCHOB
+          - href: YUEYU TIAN.qmd
+            text: YUEYU TIAN
+
+    right:
+      - icon: bi-star
+        href: "https://www.narit.or.th"
+      - icon: bi-github
+        href: "https://github.com/"
+
+  page-footer:
+    left: "© 2026 Group 4 | Astro-Tourism & Experience"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: lux
+      dark: slate
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    page-layout: full
+
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://unpkg.com">
+          <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    include-after-body:
+      - text: |
+          <script defer src="https://unpkg.com/aos@next/dist/aos.js"></script>
+          <script>
+            window.addEventListener("DOMContentLoaded", function () {
+              if (window.AOS) {
+                AOS.init({
+                  duration: 900,
+                  once: true,
+                  offset: 120,
+                  easing: "ease-out-cubic"
+                });
+              }
+            });
+          </script>
+
+resources:
+  - "pic/"
+  - "video/"
